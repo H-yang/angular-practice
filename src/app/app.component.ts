@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Simple ToDo List App';
+  title = 'ToDo List App';
   todos = [
     {
       label: 'Food shopping'
